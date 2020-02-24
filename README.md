@@ -6,4 +6,4 @@ I have significant skills and experience in: Excel, VBA,  Python, R Studios, Spa
 
 ## Contact Information
 
-Jakob S. Koerper 859.806.6894 | spencer.koerper@gmail.com [Linkedin] (https://www.linkedin.com/in/jakobkoerper/) | Perner: 01183067
+Jakob S. Koerper 859.806.6894 | spencer.koerper@gmail.com [Linkedin](https://www.linkedin.com/in/jakobkoerper/) | Perner: 01183067
